@@ -1,4 +1,3 @@
-<img width="861" height="653" alt="image" src="https://github.com/user-attachments/assets/f2f85db5-fad5-44c2-9cb3-5dcf7004aa59" />This project is a simple Arduino system that controls a servo motor using push buttons and LEDs.
 
 There is an Enable button that turns the system ON and OFF. When you press it once, the system starts working. When you press it again, the system stops. The state changes only after releasing the button.
 
