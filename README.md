@@ -1,4 +1,4 @@
-https://www.tinkercad.com/things/l3Ve6uS0mdI/editel?lessonid=EFU6PEHIXGFUR1J&projectid=OGK4Q7VL20FZRV9&collectionid=undefined&title=Editing%20Components&sharecode=ZIOLVXHAVofFJ2sZ-zGOT4jZ56bxpgHLQIcOieMHkbw&authuser=0&sharecode=ZIOLVXHAVofFJ2sZ-zGOT4jZ56bxpgHLQIcOieMHkbw
+https://www.tinkercad.com/things/l3Ve6uS0mdI-editing-components?sharecode=2w4BvqeMzRWcw4iwMU0o9MNHo7BcTigtnb4S5MTlBC0
 
 This project is a simple Arduino system that controls a servo motor using push buttons and LEDs.
 There is an Enable button that turns the system ON and OFF. When you press it once, the system starts working. When you press it again, the system stops. The state changes only after releasing the button.
