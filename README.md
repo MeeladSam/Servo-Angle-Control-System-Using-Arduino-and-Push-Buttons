@@ -1,3 +1,5 @@
+https://www.tinkercad.com/things/l3Ve6uS0mdI/editel?lessonid=EFU6PEHIXGFUR1J&projectid=OGK4Q7VL20FZRV9&collectionid=undefined&title=Editing%20Components&sharecode=ZIOLVXHAVofFJ2sZ-zGOT4jZ56bxpgHLQIcOieMHkbw&authuser=0&sharecode=ZIOLVXHAVofFJ2sZ-zGOT4jZ56bxpgHLQIcOieMHkbw
+
 This project is a simple Arduino system that controls a servo motor using push buttons and LEDs.
 There is an Enable button that turns the system ON and OFF. When you press it once, the system starts working. When you press it again, the system stops. The state changes only after releasing the button.
 
@@ -46,3 +48,6 @@ void loop() {
     }
   }
 }
+
+# On the board
+<img width="1255" height="784" alt="image" src="https://github.com/user-attachments/assets/bb74be04-bd33-445c-b1bf-1a9757d4ecc8" />
