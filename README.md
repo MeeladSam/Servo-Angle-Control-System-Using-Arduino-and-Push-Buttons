@@ -13,7 +13,8 @@ The system uses three push buttons, one servo motor, and LEDs with 100 Ω resist
 
 <img width="861" height="653" alt="image" src="https://github.com/user-attachments/assets/bb0ddd2f-b12a-4de4-a9b1-a2ab9e50057d" />
 
-Releasing Code
+# Releasing Code
+
 const int buttonPin = 2;  
 const int ledPin = 13;      
 
